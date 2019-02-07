@@ -1,0 +1,19 @@
+{
+  "name": "wallperdownloader",
+  "version": "1.0.0",
+  "description": "Загрузчик обоев с разных сайтов по категориям",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+   "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wallper"
+  ],
+  "author": "Oleg Martynov",
+  "license": "ISC"
+}
